@@ -1,0 +1,46 @@
+{
+  "term": "Fall",
+  "year": "2023",
+  "level": [
+    "Graduate"
+  ],
+  "topics": [
+    [
+      "Science",
+      "Physics",
+      "Nuclear Physics"
+    ]
+  ],
+  "legacy_uid": "",
+  "instructors": {
+    "content": [
+      "cffb2489-70eb-4959-b976-66fbe54b96ea"
+    ],
+    "website": "ocw-www"
+  },
+  "course_image": {
+    "content": "f591fed9-5bca-4f82-a936-6af70cd8c988",
+    "website": "principles-of-plasma-diagnostics"
+  },
+  "course_title": "Principles of Plasma Diagnostics",
+  "hide_download": false,
+  "course_description": "This course is an introduction to the physical processes used to measure the properties of plasmas. It will cover diagnostics suitable for a wide range of plasmas, including magnetically confined fusion plasmas and high-energy-density plasmas. Techniques include the measurements of magnetic and electric fields, particle flux, refractive index, emission and scattering of electromagnetic waves, and nuclear diagnostics.",
+  "department_numbers": [
+    "22",
+    "8"
+  ],
+  "extra_course_numbers": "8.670J",
+  "primary_course_number": "22.67J",
+  "course_image_thumbnail": {
+    "content": "",
+    "website": "principles-of-plasma-diagnostics"
+  },
+  "learning_resource_types": [
+    "Lecture Videos",
+    "Problem Sets",
+    "Supplemental Exam Materials"
+  ],
+  "site_uid": "9f96b00b-7670-4a3a-8498-140042848bd1",
+  "site_short_id": "22.67j-fall-2023",
+  "site_url_path": "courses/22-67j-principles-of-plasma-diagnostics-fall-2023"
+}

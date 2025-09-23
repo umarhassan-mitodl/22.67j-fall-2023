@@ -1,0 +1,21 @@
+leftnav:
+- identifier: 7b74fbdd-c4ce-4e78-93a5-d1d28c3e8228
+  name: Syllabus
+  pageRef: /pages/syllabus
+  weight: 10
+- identifier: a81c8eb0-7720-4bf2-8b00-fb5abda8cd76
+  name: Calendar
+  pageRef: /pages/calendar
+  weight: 20
+- identifier: d0bf1d7c-0f5e-4ab5-b7ea-5682adff55c8
+  name: Lecture Videos
+  pageRef: /video_galleries/lecture-videos
+  weight: 30
+- identifier: f38d8592-3463-41ed-a0d8-1901b07a5e05
+  name: Problem Sets
+  pageRef: /lists/problem-sets
+  weight: 40
+- identifier: 358ee360-d22c-488a-b5bf-d7bdde2c6caf
+  name: Final Exam
+  pageRef: /lists/final-exam
+  weight: 50
