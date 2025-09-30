@@ -5,6 +5,8 @@ draft: false
 file: /courses/22-67j-principles-of-plasma-diagnostics-fall-2023/ocw_2267_lecture06_refractive_2-new_transcript.pdf
 file_size: 123404
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 image_metadata:
   caption: ''
   credit: ''
