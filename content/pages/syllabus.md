@@ -12,7 +12,7 @@ Lectures: 2 sessions / week, 1.5 hours / session
 
 ## Prerequisites
 
-[*22.611J Introduction to Plasma Physics I*](https://ocw.mit.edu/courses/22-611j-introduction-to-plasma-physics-i-fall-2006/)
+{{% resource_link "caaed683-edcf-48c0-9e70-7f32ee721203" "*22.611J Introduction to Plasma Physics I*" %}}
 
 ## Course Description
 
