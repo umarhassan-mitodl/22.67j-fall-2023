@@ -23,7 +23,7 @@
     "website": "principles-of-plasma-diagnostics"
   },
   "course_title": "Principles of Plasma Diagnostics",
-  "hide_download": true,
+  "hide_download": false,
   "course_description": "This course is an introduction to the physical processes used to measure the properties of plasmas. It will cover diagnostics suitable for a wide range of plasmas, including magnetically confined fusion plasmas and high-energy-density plasmas. Techniques include the measurements of magnetic and electric fields, particle flux, refractive index, emission and scattering of electromagnetic waves, and nuclear diagnostics.",
   "department_numbers": [
     "22",
@@ -35,7 +35,6 @@
     "content": "",
     "website": "principles-of-plasma-diagnostics"
   },
-  "hide_download_original": false,
   "learning_resource_types": [
     "Lecture Videos",
     "Problem Sets",
